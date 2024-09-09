@@ -6,8 +6,8 @@
 - **Company**: CodTech IT Solutions
 - **ID**: CT12DS1704
 - **Domain**: DATA SCIENCE
-- **Duration**: September 1, 2024 - September 30, 2024
-- **Mentor**: [Mentor's Name, if applicable]
+- **Duration**: July 10, 2024 - September 10, 2024
+- **Mentor**: Mr. Muzammil Ahmed
 
 ## Overview of the Project
 
