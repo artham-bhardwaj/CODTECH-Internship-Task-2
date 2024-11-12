@@ -15,10 +15,10 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 from gensim.models import Word2Vec, CoherenceModel
 
 # Download NLTK resources if not already present
-# nltk.download('punkt')
-# nltk.download('stopwords')
-# nltk.download('wordnet')
-# nltk.download('punkt_tab')
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt_tab')
 
 # Set up stopwords, stemmer, and lemmatizer
 stop_words = set(stopwords.words('english'))
